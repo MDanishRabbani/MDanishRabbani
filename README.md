@@ -81,5 +81,3 @@ I am a **Full-Stack Web & Mobile Developer** with **4+ years of hands-on experie
 - GitHub: https://github.com/MDanishRabbani
 
 ---
-
-⭐ If you like my work, don’t forget to **follow** and **contact me**
