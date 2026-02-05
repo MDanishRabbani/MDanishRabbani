@@ -41,7 +41,7 @@
 
 ### ☁️ Cloud, DevOps & Deployment
 - **Git & GitHub** (Version Control, Workflow)
-- **AWS & Google Cloud Platform**
+- **AWS, Google Cloud Platform & Azure**
 - **Vercel & Netlify**
 - **Shared Hosting & VPS Deployment**
 
@@ -54,8 +54,8 @@
 | Languages | PHP, Python, JavaScript, Java, C, C++. Dart, Kotlin |
 | Frameworks | Next.js, Laravel, Lumen, Flutter |
 | Databases | MySQL/MariaDB, Postgres, NoSQL (Firebase) |
-| Cloud | AWS, GCP |
-| Deployment | Vercel, Netlify |
+| Cloud | AWS, GCP, Azure |
+| Deployment | Vercel, Netlify, Shared Hosting & VPS Deployment|
 | CMS | WordPress |
 | Version Control | Git, GitHub |
 
