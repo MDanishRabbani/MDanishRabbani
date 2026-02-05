@@ -19,7 +19,7 @@
 
 ## 🌟 About Me
 
-I am a **Full-Stack Web & Mobile Developer** with **4+ years of hands-on experience** building scalable, secure, and high-performance applications.
+**Full-Stack Web & Mobile Developer** with **4+ years of hands-on experience** building scalable, secure, and high-performance applications.
 
 🤝 **Always open for collaboration** for work and interesting projects.
 
