@@ -69,7 +69,7 @@ I am a **Full-Stack Web & Mobile Developer** with **4+ years of hands-on experie
 ## 📫 Contact & Collaboration
 
 💬 Feel free to reach out and collaborate with me on exciting projects.
-- https://www.linkedin.com/in/muhammad-danish-rabbani/
+- Linkedin: https://www.linkedin.com/in/muhammad-danish-rabbani/
 - GitHub: https://github.com/MDanishRabbani
 
 ---
