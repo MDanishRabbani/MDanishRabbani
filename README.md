@@ -31,7 +31,7 @@
 - **Next.js** (SSR, SSG, API Routes)
 - **Laravel & Lumen** (REST API, Admin Panel, Auth, CRUD)
 - **WordPress** (Custom Themes & Plugins)
-- **PHP, JavaScript**
+- **PHP, Python, JavaScript**
 - **MySQL** (Query Optimization, Relational Design)
 - **CMS**
 
@@ -51,7 +51,7 @@
 
 | Category | Tools |
 |-------|------|
-| Languages | PHP, JavaScript, Dart, Kotlin |
+| Languages | PHP, Python, JavaScript, Java, C, C++. Dart, Kotlin |
 | Frameworks | Next.js, Laravel, Lumen, Flutter |
 | Databases | MySQL/MariaDB, Postgres, NoSQL (Firebase) |
 | Cloud | AWS, GCP |
