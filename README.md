@@ -5,11 +5,11 @@
   <a href="https://github.com/MDanishRabbani">
     <img src="https://img.shields.io/github/followers/MDanishRabbani?label=Follow&style=social" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/muhammad-danish-rabbani">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" />
   </a>
-   &nbsp;&nbsp;
+   &nbsp
   <a href="https://www.instagram.com/mhd.danish.r">
     <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=social&logo=instagram" />
   </a>
