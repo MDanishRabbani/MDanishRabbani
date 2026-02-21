@@ -41,6 +41,7 @@
 
 ### ☁️ Cloud, DevOps & Deployment
 - **Git & GitHub** (Version Control, Workflow)
+- **Database** (MySQL, MariaDB, PostgreSQL, NoSQL, Firebase, Supabase)
 - **AWS, Google Cloud Platform & Azure**
 - **Vercel & Netlify**
 - **Shared Hosting & VPS Deployment**
