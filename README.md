@@ -25,7 +25,7 @@
 
 **Language & Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=html,php,python,js,java,c,cpp,dart,kotlin,nextjs,laravel,flutter,wordpress,mysql,postgres,firebase,supabase,aws,gcp,azure,vercel,netlify,git,github,nginx,apache,npm,postman,tailwind,vscode,androidstudio,figma" />
+<img src="https://skillicons.dev/icons?i=html,php,python,js,java,c,cpp,dart,kotlin,nextjs,laravel,flutter,wordpress,mysql,postgres,firebase,supabase,aws,gcp,azure,vercel,netlify,git,github,nginx,npm,postman,tailwind,vscode,androidstudio,figma" />
 </p>
 ---
 
