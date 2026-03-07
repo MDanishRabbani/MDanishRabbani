@@ -33,13 +33,13 @@
 ---
 
 ## 🛠 Skills
-Languages: PHP, Python, JavaScript, Java, C, C++, Dart, Kotlin  
-Frameworks: Next.js, Laravel, Lumen, Flutter  
-Databases: MySQL, MariaDB, PostgreSQL, Firebase  
-Cloud: AWS, GCP, Azure  
-Deployment: Vercel, Netlify, VPS  
-CMS: WordPress  
-Version Control: Git, GitHub
+**Languages:** PHP, Python, JavaScript, Java, C, C++, Dart, Kotlin  
+**Frameworks:** Next.js, Laravel, Lumen, Flutter  
+**Databases:** MySQL, MariaDB, PostgreSQL, Firebase  
+**Cloud:** AWS, GCP, Azure  
+**Deployment:** Vercel, Netlify, VPS  
+**CMS:** WordPress  
+**Version Control:** Git, GitHub
 
 ---
 
