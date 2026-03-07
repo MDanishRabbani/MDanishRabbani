@@ -19,7 +19,7 @@
 
 I'm a Bachelor of Computer Science graduate from USK with a specialization in software engineering and problem solving.
 
-**4+ years in FullStack Developer and 1+ years in Devops Engineeer** building scalable, secure, and high-performance applications.
+**4+ years in FullStack Developer and 2+ years in Devops Engineer** building scalable, secure, and high-performance applications.
 
 
 ---
