@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Muhammad Danish Rabbani</h1>
-<h3 align="center">Full-Stack Web & Mobile Developer</h3>
+<h3 align="center">A passionate Software Engineer who likes to build A Web & Mobile Apps</h3>
 
 <p align="center">
   <a href="https://github.com/MDanishRabbani">
@@ -15,8 +15,6 @@
   </a>
 </p>
 
----
-
 ## 🌟 About Me
 
 **Full-Stack Web & Mobile Developer** with **4+ years of hands-on experience** building scalable, secure, and high-performance applications.
@@ -25,40 +23,23 @@
 
 ---
 
-## 🧠 Tech Stack & Skills
+**Language & Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=php,python,js,java,c,cpp,dart,kotlin,nextjs,laravel,flutter,wordpress,mysql,postgres,firebase,supabase,aws,gcp,azure,vercel,netlify,git,github" />
+</p>
+---
 
-### 🌐 Web Development
-- **Next.js** (SSR, SSG, API Routes)
-- **Laravel & Lumen** (REST API, Admin Panel, Auth, CRUD)
-- **WordPress** (Custom Themes & Plugins)
-- **PHP, Python, JavaScript**
-- **MySQL** (Query Optimization, Relational Design)
-- **CMS**
-
-### 📱 Mobile Development
-- **Flutter** (Cross-platform Android & iOS)
-- **Kotlin** (Native Android)
-
-### ☁️ Cloud, DevOps & Deployment
-- **Git & GitHub** (Version Control, Workflow)
-- **Database** (MySQL, MariaDB, PostgreSQL, NoSQL, Firebase, Supabase)
-- **AWS, Google Cloud Platform & Azure**
-- **Vercel & Netlify**
-- **Shared Hosting & VPS Deployment**
 
 ---
 
-## 🛠 Tools & Technologies
-
-| Category | Tools |
-|-------|------|
-| Languages | PHP, Python, JavaScript, Java, C, C++. Dart, Kotlin |
-| Frameworks | Next.js, Laravel, Lumen, Flutter |
-| Databases | MySQL/MariaDB, Postgres, NoSQL (Firebase) |
-| Cloud | AWS, GCP, Azure |
-| Deployment | Vercel, Netlify, Shared Hosting & VPS Deployment|
-| CMS | WordPress |
-| Version Control | Git, GitHub |
+## 🛠 Skills
+Languages: PHP, Python, JavaScript, Java, C, C++, Dart, Kotlin  
+Frameworks: Next.js, Laravel, Lumen, Flutter  
+Databases: MySQL, MariaDB, PostgreSQL, Firebase  
+Cloud: AWS, GCP, Azure  
+Deployment: Vercel, Netlify, VPS  
+CMS: WordPress  
+Version Control: Git, GitHub
 
 ---
 
