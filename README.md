@@ -17,9 +17,9 @@
 
 ## 🌟 About Me
 
-**Full-Stack Web & Mobile Developer** with **4+ years of hands-on experience** building scalable, secure, and high-performance applications.
+I'm a Bachelor of Computer Science graduate from USK with a specialization in software engineering and problem solving.
+**4+ years in FullStack Developer and 1+ years in Devops Engineeer** building scalable, secure, and high-performance applications.
 
-🤝 **Always open for collaboration** for work and interesting projects.
 
 ---
 
