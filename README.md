@@ -25,23 +25,24 @@
 
 **Language & Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=php,python,js,java,c,cpp,dart,kotlin,nextjs,laravel,flutter,wordpress,mysql,postgres,firebase,supabase,aws,gcp,azure,vercel,netlify,git,github" />
+<img src="https://skillicons.dev/icons?i=html,php,python,js,java,c,cpp,dart,kotlin,nextjs,laravel,flutter,wordpress,mysql,postgres,firebase,supabase,aws,gcp,azure,vercel,netlify,git,github,nginx,apache,npm,postman,tailwind,vscode,androidstudio,figma" />
 </p>
 ---
 
 
 ---
 
-## 🛠 Skills
-**Languages:** PHP, Python, JavaScript, Java, C, C++, Dart, Kotlin  
-**Frameworks:** Next.js, Laravel, Lumen, Flutter  
-**Databases:** MySQL, MariaDB, PostgreSQL, Firebase  
-**Cloud:** AWS, GCP, Azure  
-**Deployment:** Vercel, Netlify, VPS  
-**CMS:** WordPress  
-**Version Control:** Git, GitHub
-
----
+  ## 🛠 Skills
+  **Languages:** PHP, Python, JavaScript, Java, C, C++, Dart, Kotlin  
+  **Frameworks:** Next.js, Laravel, Lumen, Flutter, ExpressJS, NodeJS, FastAPI, CodeIgniter
+  **Frontend Technologies:** HTML, CSS, Tailwind CSS, Bootstrap
+  **Databases:** MySQL, MariaDB, PostgreSQL, Firebase  
+  **Cloud:** AWS, GCP, Azure  
+  **Deployment:** Vercel, Netlify, VPS  
+  **CMS:** WordPress  
+  **Version Control:** Git, GitHub, Gitlab
+  **Tools:** VScode, Android Studio, Figma, Draw.io, Lucid, PlantUML, Postman
+  ---
 
 ## 📫 Contact & Collaboration
 
