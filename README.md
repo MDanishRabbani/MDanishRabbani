@@ -32,17 +32,17 @@
 
 ---
 
-  ## 🛠 Skills
-  **Languages:** PHP, Python, JavaScript, Java, C, C++, Dart, Kotlin  
-  **Frameworks:** Next.js, Laravel, Lumen, Flutter, ExpressJS, NodeJS, FastAPI, CodeIgniter
-  **Frontend Technologies:** HTML, CSS, Tailwind CSS, Bootstrap
-  **Databases:** MySQL, MariaDB, PostgreSQL, Firebase  
-  **Cloud:** AWS, GCP, Azure  
-  **Deployment:** Vercel, Netlify, VPS  
-  **CMS:** WordPress  
-  **Version Control:** Git, GitHub, Gitlab
-  **Tools:** VScode, Android Studio, Figma, Draw.io, Lucid, PlantUML, Postman
-  ---
+## 🛠 Skills
+
+**Languages:** PHP, Python, JavaScript, Java, C, C++, Dart, Kotlin  
+**Frameworks:** Next.js, Laravel, Lumen, Flutter, ExpressJS, NodeJS, FastAPI, CodeIgniter  
+**Frontend Technologies:** HTML, CSS, Tailwind CSS, Bootstrap  
+**Databases:** MySQL, MariaDB, PostgreSQL, Firebase  
+**Cloud:** AWS, GCP, Azure  
+**Deployment:** Vercel, Netlify, VPS  
+**CMS:** WordPress  
+**Version Control:** Git, GitHub, GitLab  
+**Tools:** VSCode, Android Studio, Figma, Draw.io, Lucid, PlantUML, Postman  
 
 ## 📫 Contact & Collaboration
 
