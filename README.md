@@ -1,18 +1,26 @@
 <h1 align="center">👋 Hi, I'm Muhammad Danish Rabbani</h1>
 <h3 align="center">A passionate Software Engineer who likes to build A Web & Mobile Apps</h3>
 
+## 🌐 Connect with Me
+
 <p align="center">
-  <a href="https://github.com/MDanishRabbani">
-    <img src="https://img.shields.io/github/followers/MDanishRabbani?label=Follow&style=social" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-danish-rabbani">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" />
-  </a>
-   &nbsp
-  <a href="https://www.instagram.com/mhd.danish.r">
-    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=social&logo=instagram" />
-  </a>
+
+<a href="https://www.instagram.com/mhd.danish.r">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/muhammad-danish-rabbani">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/MDanishRabbani">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ## 🌟 About Me
