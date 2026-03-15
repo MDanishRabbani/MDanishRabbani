@@ -25,6 +25,19 @@ I'm a Bachelor of Computer Science graduate from USK with a specialization in so
 
 **4+ years in FullStack Developer and 2+ years in Devops Engineer** building scalable, secure, and high-performance applications.
 
+---
+
+# 📊 My GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MDanishRabbani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDanishRabbani&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MDanishRabbani&theme=tokyonight&hide_border=true">
+</p>
+
 
 ---
 
