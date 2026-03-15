@@ -31,11 +31,11 @@ I'm a Bachelor of Computer Science graduate from USK with a specialization in so
 # 📊 My GitHub Statistics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/My%20Rank-A%2B-00C2FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Rank-A%2B-00C2FF?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MDanishRabbani&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=MDanishRabbani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" height="170">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDanishRabbani&layout=compact&theme=tokyonight&hide_border=true" height="170">
 </p>
 
