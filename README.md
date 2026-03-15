@@ -34,9 +34,9 @@ I'm a Bachelor of Computer Science graduate from USK with a specialization in so
   <a href="https://github.com/MDanishRabbani">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MDanishRabbani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/MDanishRabbani">
+  <!-- <a href="https://github.com/MDanishRabbani">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MDanishRabbani&layout=compact&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
+  </a> -->
   <a href="https://github.com/MDanishRabbani">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDanishRabbani&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Streak Stats">
   </a>
