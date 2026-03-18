@@ -28,7 +28,7 @@ I'm a Bachelor of Computer Science graduate from USK with a specialization in so
 ---
 
 
-# 📊 GitHub Stats
+##  📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <a href="https://github.com/MDanishRabbani">
