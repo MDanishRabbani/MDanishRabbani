@@ -22,7 +22,7 @@
 ## 🌟 About Me
 
 
-**2+ years in FullStack Developer and 1+ years in Devops Engineer** building scalable, secure, and high-performance applications.
+**2+ years in FullStack Developer Web & Mobile Apps and 1+ years in Devops Engineer** building scalable, secure, and high-performance applications.
 
 Bachelor of Computer Science-Informatics graduate degree from USK with a specialization in software engineering.
 
